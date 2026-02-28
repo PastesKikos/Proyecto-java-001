@@ -1,5 +1,6 @@
-public class proyecto(
+public class proyecto{
 public static void main(Strimg[] args)
-{system.out.printin("Hola");
+{
+System.out.println("Hola");
 }
-)
+}
