@@ -1,14 +1,4 @@
-public class Main {
-
-    public static void main(String[] args) {
-        double resultado = calcularTotal(12, 20.0); 
-        System.out.println("El total calculado con descuento es: " + resultado);
-    }
-    public static double calcularTotal(int cantidad, double precioUnitario) {
-        double subtotal = cantidad * precioUnitario;
-        if (cantidad > 10) {
-            return subtotal * 0.90; // Aplica un 10% de descuento
-        }
-        return subtotal;
-    }
-}
+public class proyecto(
+public static void main(Strimg[] args)
+{system.out.printin("Hola");
+)
